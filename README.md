@@ -25,7 +25,9 @@ logo.png: Logo of the application.
 error.html: 404 error page.
 
 Start Docker Desktop
+
 Open Windows PowerShell
+
 cd "C:\Users\user\Desktop\_____Go It\4 Computer Systems and Their Fundamentals\Homework6"
 docker-compose up
 
