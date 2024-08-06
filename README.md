@@ -29,6 +29,7 @@ Start Docker Desktop
 Open Windows PowerShell
 
 cd "C:\Users\user\Desktop\_____Go It\4 Computer Systems and Their Fundamentals\Homework6"
+
 docker-compose up
 
 Open a Web Browser: http://localhost:3000
